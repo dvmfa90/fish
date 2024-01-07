@@ -8,6 +8,7 @@ end
 #
 alias iptl='sudo iptables -L'
 alias iptlv='sudo iptables -L -n -v --line-numbers'
+alias save='sudo /sbin/iptables-save > /etc/iptables/rules.v4'
 
 #Global
 alias cls='clear'
