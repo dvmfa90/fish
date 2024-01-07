@@ -9,3 +9,5 @@ end
 alias iptl='sudo iptables -L'
 alias iptlv='sudo iptables -L -n -v --line-numbers'
 
+#Global
+alias cls='clear'
